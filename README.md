@@ -1,7 +1,7 @@
 Demo: http://cs.smith.edu/~220a-ak/scrum3/
 
 It has following features: 
-1.Size of the water symbol represents the amount of water widthdrawl in gallen per day. 
+*Size of the water symbol represents the amount of water widthdrawl in gallen per day. 
 2. Draggable triangle slider: the size of the water symbol changes according to which year slider points to.
 3. State water symbols are draggable, when dropped into the box on the right and click the blue button, a line chart will be drawn.
 4. Click the button again, user could close the line chart. 
