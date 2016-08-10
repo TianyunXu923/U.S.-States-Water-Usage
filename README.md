@@ -9,7 +9,7 @@ It has following features:
 + Scale up and down button next to the graph button. If line charts are to close to each other, could zoom in and scale the graph up. 
 + If water symbol is not dropped in the box, it goes back to its initial position.
 
-### Water usuage bubbles and timeline red triangle icon are draggable.
+### Water usuage bubbles and timeline red slider are draggable.
 ![alt text](https://github.com/TianyunXu923/U.S.-States-Water-Usage/blob/master/demoImg1.png )
 
 ### Drag state water bubble to the display box. 
