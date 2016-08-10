@@ -1,4 +1,4 @@
-Data displayed collected from http://water.usgs.gov/watuse/data/
+Demo: http://cs.smith.edu/~220a-ak/scrum3/
 
 It has following features: 
 1. Size of the water symbol represents the amount of water widthdrawl in gallen per day. 
@@ -8,3 +8,5 @@ It has following features:
 5. Could view multiple line charts of multiple states on the same graph, easy to compare. 
 6. Scale up and down button next to the graph button. If line charts are to close to each other, could zoom in and scale the graph up. 
 7. If water symbol is not dropped in the box, it goes back to its initial position.
+
+Data displayed collected from http://water.usgs.gov/watuse/data/
